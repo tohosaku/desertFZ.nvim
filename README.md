@@ -2,6 +2,8 @@
 
 A dark true-color colorscheme for Neovim, inspired by the classic `desert` and `desertEx` colorschemes.
 
+<img width="800" src="https://raw.githubusercontent.com/tohosaku/desertFZ.nvim/refs/heads/assets/images/screenshot.webp">
+
 ## Features
 
 - Designed specifically for Neovim
