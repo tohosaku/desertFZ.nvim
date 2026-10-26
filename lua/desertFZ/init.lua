@@ -1,4 +1,4 @@
-local theme = require("theme")
+local theme = require("desertFZ.theme")
 local M = {}
 
 function M.setup()
